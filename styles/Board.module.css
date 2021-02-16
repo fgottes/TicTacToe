@@ -6,4 +6,9 @@
   clear: both;
   content: "";
   display: table;
+  color: red;
+}
+
+.boardRow {
+  color: red;
 }
